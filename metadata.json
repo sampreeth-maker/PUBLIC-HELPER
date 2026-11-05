@@ -1,0 +1,6 @@
+{
+  "name": "SOLVEXA",
+  "description": "Understand Problems. Discover Solutions. Build a Safer Society. Public problem-solving and awareness platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
